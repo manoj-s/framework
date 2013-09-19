@@ -402,7 +402,7 @@ Mailing List
 ------------
 
 Have a query? Feel free to contact us.
-phresco-support@photoninfotech.net
+phresco-support@photoninfotech.net 
 
 Contributing
 ------------
